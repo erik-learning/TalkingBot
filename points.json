@@ -1,0 +1,27 @@
+[
+
+    {
+        "content": "Mega SilkWay is the largest mall in Astana. It features with different shops and dining facilities. It works from 09:00 to 23:00. Location: https://go.2gis.com/sbt7y",
+        "meta": {"name": "Mega SilkWay",
+                "map_location":  "https://go.2gis.com/sbt7y"
+        }
+  },
+  {
+     "content": "Dodo pizza is a pizza restaurant with a variety of halal choices. It works 24/7. Location: https://go.2gis.com/nrusb.",
+        "meta": {"name": "Dodo pizza",
+                "map_location":  "https://go.2gis.com/nrusb"
+        }
+  },
+    {
+     "content": "Dodo pizza is a pizza restaurant with a variety of halal choices. It works 24/7. Location: https://go.2gis.com/yu6b2",
+        "meta": {"name": "Dodo pizza",
+                "map_location":  "https://go.2gis.com/yu6b2"
+        }
+  },
+  {
+     "content": "Underground is a small sports center. It works from 10 to 18. The price is 5000 tenge per visit. Location: https://go.2gis.com/x35u1c",
+        "meta": {"name": "Underground",
+                "map_location":  "https://go.2gis.com/x35u1c"
+        }
+  }
+]
