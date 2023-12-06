@@ -54,7 +54,7 @@ def retrieve_answers(query):
 
 
 def ask_gpt(query):
-    openai.api_key = "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"
+    openai.api_key = ""
     completion = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
 
